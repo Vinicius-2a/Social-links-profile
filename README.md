@@ -9,8 +9,8 @@ O Desáfio é de replicar o design proposto.
 
 ###  Links
 
-- Url do meu Desáfio no FrontendMentor: [https://www.frontendmentor.io/solutions/pgina-social-links-profile-com-reactjs-241nYHALJe]
-- URL da solução: [https://vinicius-2a.github.io/Card-SocialLinks/]
+- Url do meu Desáfio no FrontendMentor: [https://www.frontendmentor.io/solutions/pgina-nft-preview-card-component-com-reactjs-AWa_qWakZH]
+- URL da solução: [https://vinicius-2a.github.io/NFT-preview-card-component/]
 
 ##  Construído com
 - React JS
