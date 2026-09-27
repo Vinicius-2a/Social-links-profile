@@ -5,12 +5,12 @@ O Desáfio é de replicar o design proposto.
 
 ###  Captura de tela
 
-![](./src/assets/images/HtmleCSS.webp)
+![](./src/assets/WhatsApp%20Image%202026-09-27%20at%2000.38.09.jpeg)
 
 ###  Links
 
 - Url do meu Desáfio no FrontendMentor: [https://www.frontendmentor.io/solutions/pgina-social-links-profile-com-reactjs-241nYHALJe]
-- URL da solução: [https://vinicius-2a.github.io/Card-HTML-CSS/]
+- URL da solução: [https://vinicius-2a.github.io/Card-SocialLinks/]
 
 ##  Construído com
 - React JS
